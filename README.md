@@ -1,4 +1,4 @@
-# Road Accident Dashboard, (Interactive Dashboard creation using MS Excel)
+# Road Accident Dashboard, (Interactive Dashboard creation using Excel)
 ## Project Objective
 To visualize and analyse road accident data for informed decision-making and to identify trends, risks, and areas of concern in road safety in the UK by using Excel.
 
