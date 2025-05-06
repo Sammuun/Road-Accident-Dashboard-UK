@@ -24,3 +24,14 @@ o	Are serious or fatal accidents more likely on specific road types or in certai
 
 ## Dashboard
 ![Screenshot 2025-05-03 130330](https://github.com/user-attachments/assets/a7344bc8-c585-4ee4-a70f-1396801c6528)
+
+## Project Insight
+o	Car accidents dominate the statistics, making up nearly 80% of all casualties.
+o	Most accidents are slight in nature (84.1%), with only 1.7% resulting in fatalities.
+o	Urban areas report more casualties than rural, likely due to higher traffic density.
+o	Accidents are more frequent in daylight, but serious/fatal accidents in darkness may need closer inspection.
+o	Single carriageways are responsible for the majority of casualties, suggesting a need for infrastructure improvement or policy changes in those areas.
+o	Casualty numbers remained fairly stable between 2021 and 2022, with slight monthly variations.
+
+## Final Conclusion:
+This dashboard provides a comprehensive look at road accident patterns and their contributing factors. The data can help stakeholders such as traffic safety agencies, urban planners, and policymakers make data-driven decisions to reduce road accidents and enhance public safety. Prioritizing improvements on single carriageways, enforcing speed limits in daylight, and increasing public awareness in urban zones can be effective next steps.
